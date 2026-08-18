@@ -10,19 +10,24 @@ Intern ID: CITS7824
 
 Project 3: Bug Reporting & Tracking
 
-# Project Overview
+**Project Overview**
 
 This project focuses on understanding the basics of bug reporting and tracking by manually testing a demo web application and documenting observations.
 
-# Application Under Test
+Application Under Test
 Application Name: SauceDemo
+
 Website: https://www.saucedemo.com/
 
-# Modules Tested
+Modules Tested
 Login
+
 Products
+
 Add to Cart
+
 Cart
+
 Logout
 
 # Testing Type
