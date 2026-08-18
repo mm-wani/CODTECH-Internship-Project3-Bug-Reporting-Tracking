@@ -14,12 +14,14 @@ Project 3: Bug Reporting & Tracking
 
 This project focuses on understanding the basics of bug reporting and tracking by manually testing a demo web application and documenting observations.
 
-Application Under Test
+**Application Under Test**
+
 Application Name: SauceDemo
 
 Website: https://www.saucedemo.com/
 
-Modules Tested
+**Modules Tested**
+
 Login
 
 Products
@@ -30,8 +32,40 @@ Cart
 
 Logout
 
-# Testing Type
+**Testing Type**
+
 Manual Testing
+
 Functional Testing
+
 Bug Reporting
+
 Bug Tracking
+
+**Tools Used**
+
+Google Chrome
+
+Microsoft Excel
+
+Microsoft Word
+
+**Files Included**
+
+Third_Project_of_Internship.docx
+
+Bug_Report.xlsx
+
+Screenshots
+
+**Test Summary**
+
+Total Bug Reports: 5
+
+Closed: 5
+
+Open: 0
+
+**Conclusion**
+
+The application was tested manually, and the observations were documented successfully. This project helped in understanding the basic concepts of bug reporting and tracking.
