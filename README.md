@@ -10,62 +10,48 @@ Intern ID: CITS7824
 
 Project 3: Bug Reporting & Tracking
 
-**Project Overview**
+## Project Overview
 
 This project focuses on understanding the basics of bug reporting and tracking by manually testing a demo web application and documenting observations.
 
-**Application Under Test**
+## Application Under Test
 
-Application Name: SauceDemo
+- Application Name: SauceDemo
+- Website: https://www.saucedemo.com/
 
-Website: https://www.saucedemo.com/
+## Modules Tested
 
-**Modules Tested**
+- Login
+- Products
+- Add to Cart
+- Cart
+- Logout
 
-Login
+## Testing Type
 
-Products
+- Manual Testing
+- Functional Testing
+- Bug Reporting
+- Bug Tracking
 
-Add to Cart
+## Tools Used
 
-Cart
+- Google Chrome
+- Microsoft Excel
+- Microsoft Word
 
-Logout
+## Files Included
 
-**Testing Type**
+- Third_Project_of_Internship.docx
+- Bug_Report.xlsx
+- Screenshots
 
-Manual Testing
+## Test Summary
 
-Functional Testing
+- Total Bug Reports: 5
+- Closed: 5
+- Open: 0
 
-Bug Reporting
-
-Bug Tracking
-
-**Tools Used**
-
-Google Chrome
-
-Microsoft Excel
-
-Microsoft Word
-
-**Files Included**
-
-Third_Project_of_Internship.docx
-
-Bug_Report.xlsx
-
-Screenshots
-
-**Test Summary**
-
-Total Bug Reports: 5
-
-Closed: 5
-
-Open: 0
-
-**Conclusion**
+## Conclusion
 
 The application was tested manually, and the observations were documented successfully. This project helped in understanding the basic concepts of bug reporting and tracking.
